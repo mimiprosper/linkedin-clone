@@ -1,0 +1,52 @@
+🌟 Course Contents 🌟
+⌨️: 00:00 - LinkedIn Clone Build Showcase
+⌨️: 02:10 - Taking your skills to the next level
+⌨️: 03:50 - Clean up project
+⌨️: 07:31 - Setting global style & favicon
+⌨️: 14:48 - Create Login component & Add it to router
+⌨️: 19:28 - Add and style login header elements 
+⌨️: 37:25 - Add & style image and text on login page main area
+⌨️: 51:08 - Add sign in with Google button
+⌨️: 58:56 - Add header header elements
+⌨️: 01:16:01 - Add and style navBar
+⌨️: 01:45:18 - Add UpWork ad on the top
+⌨️: 01:52:27 - Create Home Screen section structure
+⌨️: 01:52:27 - Add & style content for left section
+⌨️: 02:34:08 - Add & style content for right section
+⌨️: 02:50:14 - Add & style generic content for main area
+⌨️: 02:52:52 - Create share box
+⌨️: 03:08:35 - Create article template
+⌨️: 03:50:35 - Set up and connect Firebase
+⌨️: 03:57:12 - Add login functionality
+⌨️: 04:09:31 - Save active user details to redux
+⌨️: 04:25:58 - Show active user profile picture 
+⌨️: 04:34:56 - Add sign out functionality (complete user authentication)
+⌨️: 04:42:08 - Replace name placeholders with active users name
+⌨️: 04:45:20 - Create post modal (Post upload pt. 1)
+⌨️: 05:55:26 - Upload post with image (Post upload pt. 2)
+⌨️: 06:13:35 - Upload post with video (Post upload pt. 3)
+⌨️: 06:15:39 - Retrieve posts (Show posts pt. 1)
+⌨️: 06:36:34 - SetArticles (Redux) & display posts (Show posts pt. 2)
+⌨️: 06:50:12 - Display media correctly (Show posts pt. 3)
+⌨️: 06:58:13 - deploy & closing remarks
+
+
+https://github.com/CleverProgrammers/cp-linkedin-clone#readme
+
+npm install react-router-dom
+npm install styled-components
+npm install react-redux 
+npm install redux
+npm install firebase
+npm install firebase-tools 
+npm install redux-thunk
+npm install react-player
+
+
+
+https://icons8.com/
+react-redux-8.1.3 version 
+
+
+
+stop/start 03:50

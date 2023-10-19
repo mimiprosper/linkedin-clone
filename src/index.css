@@ -1,0 +1,59 @@
+/* fonts family Spartan, Outfit, Poppins, Roboto */
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&family=Outfit:wght@200;300;400&family=Poppins:wght@200&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: Arial, sans-serif;
+}
+
+:root,
+body,
+html {
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+}
+
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+i,
+label,
+li,
+nav,
+p,
+small,
+span,
+ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  font-size: 100%;
+  vertical-align: baseline;
+  background-color: transparent;
+}
+
+@-webkit-keyframes fadeIn{
+  from {
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
